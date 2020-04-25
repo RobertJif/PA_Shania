@@ -9,22 +9,5 @@
     tools:context=".MainActivity">
 
 
-    <ImageView
-        android:id="@+id/uploadedFile"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        tools:srcCompat="@tools:sample/avatars" />
-
-    <TextView
-        android:id="@+id/imgPath"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="" />
-
-    <Button
-        android:id="@+id/pickerButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Upload" />
 
 </LinearLayout>
